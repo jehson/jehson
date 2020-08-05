@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm 👾 Jehson. I've been 👨🏻‍💻 coding since 🤘 Y2K, back when some 💾 disks were floppy, and inside the 🐁 mouse, there was a 🎱 ball. Immediately after my 👨‍🎓college graduation, I 🛸 flew 🏝️ islands away to the country's 🏙️ capital to jumpstart my 📜 career in 💻 software engineering.
+I'm 👾 Jehson. I've been 👨🏻‍💻 coding since 🤘 Y2K, back when some 💾 disks were floppy, and inside the 🐁 mouse, there was a 🎱 ball.
 
-At the moment, I am dealing with full-stack code, from vanilla PHP and Python to Typescript + Angular, in a dire attempt to modernise a time-proven freelancing platform, home to 42+ million users, scaled globally.
+At the moment, I am working with full-stack code, from vanilla PHP and Python to Typescript + Angular, in a dire attempt to modernise a time-proven freelancing platform, home to 42+ million users, scaled globally.
 
 <!--
 **jehson/jehson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
