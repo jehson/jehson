@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 👾 Jehson. I've been 👨🏻‍💻 coding since 🤘 Y2K, back when some 💾 disks were floppy, and inside the 🐁 mouse, there was a 🎱 ball.
+I'm Jehson. I've been 👨🏻‍💻 coding since 🤘 Y2K, back when some 💾 disks were floppy, and inside the 🐁 mouse, there was a 🎱 ball.
 
 At the moment, I am working with full-stack code, from vanilla PHP and Python to Typescript + Angular, in a dire attempt to modernise a time-proven freelancing platform, home to 42+ million users, scaled globally.
 
