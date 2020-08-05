@@ -4,6 +4,7 @@ I'm 👾 Jehson. I've been 👨🏻‍💻 coding since 🤘 Y2K, back when some
 
 At the moment, I am working with full-stack code, from vanilla PHP and Python to Typescript + Angular, in a dire attempt to modernise a time-proven freelancing platform, home to 42+ million users, scaled globally.
 
+http://jehson.codes
 <!--
 **jehson/jehson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
