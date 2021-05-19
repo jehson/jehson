@@ -2,9 +2,10 @@
 
 I'm Jehson. I've been 👨🏻‍💻 coding since 🤘 Y2K, back when some 💾 disks were floppy, and inside the 🐁 mouse, there was a 🎱 ball.
 
-At the moment, I am working with full-stack code, from vanilla PHP and Python to Typescript + Angular, in a dire attempt to modernise a time-proven freelancing platform, home to 42+ million users, scaled globally.
+At the moment, I am working with full-stack code, from MySQL, vanilla PHP and Python to Typescript/Angular, and even Jenkins/CI, Terraform, and Puppet, in a dire attempt to modernise a time-proven freelancing platform, home to 50+ million users, scaled globally.
 
-http://jehson.codes
+http://jehson.codes/?hello-from-github
+
 <!--
 **jehson/jehson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
